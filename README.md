@@ -12,6 +12,6 @@
 
 
 <h3>Local run</h3>
-1) For running all tests by IntelliJ IDEA: Launch `.runConfiguration/RunCucumberTest.xml` run configuration.
-2) For running tests by Gradle: gradlew :test --tests "com.wandoo.homework.RunCucumberTest" --stacktrace (Windows).
+1) For running all tests by IntelliJ IDEA: Launch `.runConfiguration/RunCucumberTest.xml` run configuration.</br>
+2) For running tests by Gradle: gradlew :test --tests "com.wandoo.homework.RunCucumberTest" --stacktrace (Windows).</br>
 3) Test reports are available after test execution via RunCucumberTest.run.xml in the Run tab below test scenario results.
